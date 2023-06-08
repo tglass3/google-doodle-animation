@@ -5,9 +5,7 @@
   * Outline Elements
 */
 
-* {
-    outline: 1px dotted black;
-}
+
 
 /* Doodle Stage */
 #stage {
@@ -32,3 +30,6 @@ img{
   opacity: 20%;
 }
 
+#sword{
+  transform-origin: 300px 200px;
+}
