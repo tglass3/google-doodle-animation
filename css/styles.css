@@ -11,15 +11,24 @@
 
 /* Doodle Stage */
 #stage {
-  background: #ccc;
+  background: #fff;
   height: 300px;
   width: 600px;
+  position: relative;
 }
 
-#heart1 {
-  fill: red;
+#input{
+  padding-top: 5-px;
 }
 
-#heart2 {
-  fill: green;
+img{
+  width: 100%;
+  position: absolute;
+  display: inline;
+  left: 0;
+  top: 0;
+}
+
+#light{
+  opacity: 20%;
 }
