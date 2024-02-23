@@ -10,4 +10,4 @@ The Legend of Zelda: Breath of the Wild is a 2017 action-adventure game develope
 
 [Google Doodle description](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Breath_of_the_Wild)
 
-![Preview Image. A sword in a stone that lifts up heroically.](/path/to/image.png "Text to show on mouseover")
+![Preview Image. A sword in a stone that lifts up heroically.](/img/Google-Doodle-Preview.png "Preview")
